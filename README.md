@@ -1,5 +1,6 @@
 <!-- markdownlint-disable-file MD001 MD033 -->
-<h1 align="center">NotEnoughUpdates</h1>
+<h1 align="center">NotEnoughUpdates - 中文汉化版</h1>
+<h1 align="center">由于英文水平不高，全文采取机翻，如有错误请包涵。</h1>
 
 <div align="center">
     <!-- release -->
